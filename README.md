@@ -20,6 +20,7 @@ and run:
 
 ### Starting from console:
 Add alis in profile ~/.bashrc
+
 For ZSH console ~/.zshrc
 
 ```
