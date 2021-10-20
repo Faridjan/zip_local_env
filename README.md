@@ -1,5 +1,5 @@
 # Zip/Unzip local .env file
-Move your local .ENV files for another developer.
+Transfer your local .ENV files for another developer.
 
 ## for Zip:
 run in root where .env files
